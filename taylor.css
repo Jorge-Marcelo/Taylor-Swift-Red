@@ -3,6 +3,8 @@
 
 a{
 color: #C0392B;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: white;
 }
 
 /*Header Style*/
